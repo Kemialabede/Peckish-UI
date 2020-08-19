@@ -1,0 +1,29 @@
+.restaurant-link{
+    display:flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #D8DCDF;
+}
+.search{
+    text-decoration: none;
+    font-family: SF Pro Display;
+    font-size: 13px;
+    line-height: 10px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #454545;
+    font-weight: bold;
+    padding: 28px 28px 10px 28px;
+}
+.addrestaurant{
+    font-family: SF Pro Display;
+    font-size: 13px;
+    line-height: 10px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #454545;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 28px 28px 10px 28px;
+}

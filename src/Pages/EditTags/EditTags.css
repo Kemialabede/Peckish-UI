@@ -1,0 +1,50 @@
+@media screen and (max-width: 479px) {
+.edit-header{
+    padding: 8px 0px;
+}
+.edit-tags-content{
+    width: 345px;
+    margin: auto;
+}
+.edit{
+    border:  1.03303px solid #d0d0d0;
+    box-sizing: border-box;
+    border-radius: 6.21302px;
+    min-height: 114px;
+    padding: 10px 11px 10px 11px;
+}
+.edit-row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.edit-pricing-two{
+    margin-top: 10px;
+    display: flex;
+}
+.edit-cuisine-one{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.edit-cuisine-two{
+    margin-top: 10px;
+    display: flex;
+    
+}
+.edit-ambience-one{
+    display: flex;
+}
+.edit-ambience-two{
+    margin-top: 10px;
+    display: flex;
+}
+.edit-misc{
+    display: flex;
+}
+.edit-content{
+    padding: 7px;
+}
+.icon-image{
+    margin-left: 20px;
+}
+
+}

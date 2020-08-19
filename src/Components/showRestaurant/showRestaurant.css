@@ -1,0 +1,35 @@
+.tagbutton-content{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.tagcontent{
+    width: 250px;
+    font-family: 'Roboto', sans-serif; 
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.25px;
+    color: #454545;
+    mix-blend-mode: normal;
+}
+.tagbutton-inner-content{
+    padding: 23px 15px 15px 0px;
+    
+}
+.enabled{
+    width: 40px;
+    height: 24px;
+}
+.tagbutton-header{
+    font-family: 'Roboto', sans-serif; 
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.15px;
+    color: #454545;
+    mix-blend-mode: normal;
+    padding: 4px 0px 4px 0px;
+}

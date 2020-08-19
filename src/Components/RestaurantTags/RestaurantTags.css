@@ -1,0 +1,43 @@
+
+.tags-overall{
+    margin: 0 auto;
+    width: 345px;
+    padding: 12px;
+}
+.tags-header{
+    padding: 12px 0px 12px 0px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 13px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.4px;
+    color: #000000;
+    mix-blend-mode: normal
+}
+.personal-tag-header {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.15px;
+    color: #000000;
+    mix-blend-mode: normal;
+}
+h6{
+    margin: 0;
+    padding: 25px 0 15px 0;
+    width: 200px;
+}
+.tag-info{
+    display: flex;
+}
+.edit-tag{
+    text-decoration: none;
+}
+.cancel-icon{
+    margin-left: 16px;
+}

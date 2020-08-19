@@ -1,0 +1,65 @@
+@media screen and (max-width: 479px) {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
+    .first-section{
+        display: flex;
+        justify-content: space-between;
+    }
+    .login-content{
+        width: 100%;
+        height: 100%;
+    }
+    .background{
+        background: #12E068;
+        width: 100%;
+        height: 500px;
+    }
+    .group{
+        margin-top: 40px;
+        width: 95px;
+    }
+    .peckish-logo{
+        margin-top: 180px;
+        width: 150px;
+        margin-left: 15px;
+    }
+    .first-section-content{
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 23px;
+        letter-spacing: 0.15px;
+        color: white;
+        margin-left: 15px;
+        margin-top: 22px;
+        width: 120%;
+    }
+    .wavy-image{
+        margin-top: 23px;
+        width: 100%;
+        position: absolute;
+    }
+    .login-form{
+        top: 130px;
+        position: relative;
+    }
+    .input-text::-webkit-input-placeholder {padding-left: 12px;}
+    .input-password::-webkit-input-placeholder {padding-left: 12px;}
+    .bottom-image{
+        margin-top: 125px;
+       width: 135px;
+    }
+    .third-section{
+        display: flex;
+        justify-content: space-between;
+        padding-bottom: 30px;
+    }
+    .red{
+        margin-top: 200px;
+    }
+    .signin-link{
+        text-decoration: none;
+    }
+ 
+ 
+}

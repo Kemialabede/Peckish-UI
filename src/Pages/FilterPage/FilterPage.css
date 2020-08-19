@@ -1,0 +1,41 @@
+@media screen and (max-width: 479px) {
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
+    .filter-pagecontent{
+        display: flex;
+        justify-content: space-between;
+        width: 290px;
+        margin: 35px 0 0 0;
+    }
+    .filter-overallcontent{
+        width: 340px;
+        margin: 0 auto;
+    }
+    .clear{
+        text-align: center;
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 16px;
+        text-align: center;
+        letter-spacing: 0.75px;
+        text-transform: uppercase;
+        color: rgba(0, 0, 0, 0.38);
+    }
+    .filter-header{
+        font-family: 'Roboto', sans-serif; 
+        font-style: normal;
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 23px;
+        letter-spacing: 0.15px;
+        color: #000000;
+        mix-blend-mode: normal;
+    }
+    .apply-filters{
+        padding-bottom: 170px;
+    }
+    .tags-content{
+        display: flex;
+    }
+}

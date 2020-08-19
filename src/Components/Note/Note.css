@@ -1,0 +1,52 @@
+@media screen and (max-width: 479px) {
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,600;1,700&display=swap');
+    .note-overall-content{
+        margin: 0 auto;
+        width: 340px;
+    }
+    .note-paragraph{
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 20px;
+        letter-spacing: 0.25px;
+        color: #454545;
+        mix-blend-mode: normal;
+    }
+    .note-header{
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: bolder;
+        font-size: 20px;
+        line-height: 23px;
+        letter-spacing: 0.15px;
+        color: #000000;
+        mix-blend-mode: normal;
+    }
+    .date{
+        font-family: 'Roboto', sans-serif;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 24px;
+        color: rgba(0, 0, 0, 0.38);
+        mix-blend-mode: normal;
+        margin-top: 10px;
+        margin-bottom: 45px;
+    }
+    .note-input{
+        width: 339px;
+        height: 114px;
+        border: 1.03303px solid #9e9a9a;
+        box-sizing: border-box;
+        border-radius: 6.21302px;
+        outline: none;
+        padding: 15px;
+        font-family: 'Roboto', sans-serif;
+        font-size: 16.5284px;
+        line-height: 25px;
+
+    }
+
+}

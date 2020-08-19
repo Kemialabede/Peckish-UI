@@ -1,0 +1,19 @@
+.photo-content{
+    margin-top: 30px;
+}
+.photo-header{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 20px;
+    line-height: 23px;
+    letter-spacing: 0.15px;
+    color: #000000;
+    mix-blend-mode: normal;
+    width:  340px;
+    margin: auto;
+    margin-bottom: 16px;
+}
+.photo-image {
+    width: 100%;
+}

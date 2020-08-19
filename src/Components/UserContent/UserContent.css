@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;0,900;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.visited-content{
+    display: flex;
+    justify-content: space-between;
+    width: 340px;
+    margin: 0 auto;
+    align-items: center;
+    padding: 25px 0px 0px;
+}
+.visited-content h1{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 34px;
+    line-height: 40px;
+    letter-spacing: 0.25px;
+    color: #000000;
+    mix-blend-mode: normal;
+}
+.visited-left-image{
+    display: flex;
+    align-items: center;
+}
+.visited-inner-content{
+    width: 340px;
+    margin: 0 auto;
+    margin-top: 17px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.25px;
+    color: #454545;
+}
+.first-visited-content{
+    line-height: 25px;
+}
+.union{
+    height: 205px;
+}
+.value{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 20px;
+    letter-spacing: 0.25px;
+    color: #454545;
+}
+.visit-text{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #454545;
+    margin-right: 12px;
+}
